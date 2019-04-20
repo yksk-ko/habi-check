@@ -1,0 +1,19 @@
+{
+  "name": "habi_party",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://ykke@bitbucket.org/ykke/habi_party.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.16.3",
+    "path": "~0.12.7"
+  }
+}

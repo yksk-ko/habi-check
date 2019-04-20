@@ -1,0 +1,41 @@
+div.row {
+  margin-top: 10px;
+}
+
+.results tr[visible='false'],
+.no-result{
+  display:none;
+}
+
+.results tr[visible='true']{
+  display:table-row;
+}
+
+.counter{
+  padding:8px; 
+  color:#ccc;
+}
+
+.complete {
+  background-color:rgb(196, 195, 195);
+}
+
+.incomplete.warning {
+  background-color:rgb(247, 136, 136);
+}
+
+.incomplete.caution {
+  background-color:rgb(252, 233, 150);
+}
+
+#register-task {
+  margin-top: 10px;
+}
+
+.nav-item .nav-link {
+  color: black;
+}
+
+.nav-item .nav-link.active {
+  background-color: rgb(196, 195, 195);
+}
